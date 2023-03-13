@@ -25,8 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
-
+O Jogo da memória foi desenvolvido pelo Curso ProgramadorBR para fins educacionais.
 - [Visite o projeto online](https://tonelopes.github.io/jogo-da-memoria/)
 
 
