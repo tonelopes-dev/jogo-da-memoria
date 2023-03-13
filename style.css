@@ -103,6 +103,9 @@ cursor: pointer;
     width: 75px;
     height: 75px;
   }
+  .card_front .icon{
+    width: 90%;
+  }
   .card_back {
     /* display: none; */
     
@@ -128,6 +131,9 @@ cursor: pointer;
   .card {
     width: 75px;
     height: 75px;
+  }
+  .card_front .icon{
+    width: 80%;
   }
   .card_back {
     /* display: none; */
