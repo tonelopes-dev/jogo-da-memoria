@@ -26,9 +26,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Jogo da memória foi desenvolvido pelo Curso ProgramadorBR para fins educacionais.
-- [Visite o projeto online](https://tonelopes.github.io/jogo-da-memoria/)
+- [Visite o projeto online](https://tonelopes-dev.github.io/jogo-da-memoria/)
 
 
 ---
 
-Feito com ♥ por [Tone Lopes](https://tonelopes.github.io/portfolio/#home)
+Feito com ♥ por [Tone Lopes](https://tonelopes-dev.github.io/portfolio/#home)
